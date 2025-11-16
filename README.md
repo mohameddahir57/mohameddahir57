@@ -1,78 +1,58 @@
-Thank you for sharing your example. Here’s a more professional, visually engaging, and personalized version of your GitHub profile README, improving layout, language, and structure. I've included placeholders—replace links, emails, and stats usernames as needed.
-
-````markdown name=README.md
-<h1 align="center">Hi 👋, I'm Amin Dahir</h1>
-
-<p align="center"><b>Curious • Analytical • Growing</b></p>
-<p align="center">🌐 Junior Data Analyst, passionate about transforming data into meaningful stories</p>
-
----
-
-## 🚀 About Me
-
-- 📊 I specialize in **Data Analysis**, building insightful dashboards, and automating workflows.
-- 🧩 Love working with Excel, Power BI, SQL, and Python.
-- 🌱 Currently refining my analytical, storytelling, and visualization skills.
-- 🤝 Open to collaborating on data projects or analytics challenges!
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" title="Excel"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="40" title="Power BI"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=1800&color=228be6&center=true&vCenter=true&width=460&height=60&lines=Data+Analyst" alt="Data Analyst typing animation"/>
 </p>
 
----
+Hi, I'm Mohamed 👋🏽💻
 
-## 📫 Connect with Me
-
-<p>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="36" title="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/252xxxxxxxxx" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366/ffffff" height="36" title="WhatsApp"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" title="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="36" title="Instagram"/>
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amin-dahir&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-dahir&layout=compact&theme=tokyonight&card_width=400"/>
+<div align="center" style="background: #f3f8fe; border-radius: 16px; padding: 28px 16px; margin: 28px 0;">
+  <div align="left" style="display: inline-block;">
+    <h2 style="margin-bottom: 8px; color: #232129; letter-spacing: 2px; font-weight: bold;">MOHAMED DAHIR OSMAN</h2>
+    <p style="color: #5b6b7a; font-size: 1.2em; margin: 0;">
+      data analyst & passion for insight-driven solutions
+    </p>
+  </div>
 </div>
 
+I'm a data analyst who is passionate about making data accessible, empowering decision-making, and driving better outcomes. My focus is on turning raw information into clear, actionable insights for people and teams.  
+I love building dashboards and automation to help people see their data’s full potential. My go-to tools include **Excel**, **Power BI**, **SQL Server**, **MySQL**, and **Python**.
+
+Some highlights:
+- 📊 Specializing in data visualization and business reporting.
+- 🤝 Eager to collaborate on impactful analytics projects.
+- 🧠 Always learning new data tools and techniques.
+
 ---
 
-<details>
-  <summary><b>More About Me</b></summary>
+## 🛠️ Skills & Tools
 
-- 🎯 My goal: Master end-to-end analytics workflows and empower better decisions through data.
-- 🌐 Languages: English, [insert your languages]
-- 🪴 Fun fact: I enjoy [insert a hobby or fun fact about you].
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" alt="Excel"/>
+      <br /><b>Excel</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI"/>
+      <br /><b>Power BI</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/>
+      <br /><b>SQL Server</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
+      <br /><b>MySQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+      <br /><b>Python</b>
+    </td>
+  </tr>
+</table>
 
-</details>
+---
 
-<!-- Replace links and handles above with your real info before using! -->
+Want to connect or collaborate?  
+[Email](mailto:mohameddahirosman57@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/) | [WhatsApp](https://wa.me/252613040142) | [Instagram](https://www.instagram.com/moha__dahir26/)
 
-````
-
-Let me know if you want a version written just for you, with your name and info instead of “Amin Dahir”!
+---
