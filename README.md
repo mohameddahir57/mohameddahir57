@@ -1,12 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mohamed Dahir Osman</h1>
-<h3 align="center">Junior Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Amin Dahir</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/moha__dahir26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/moha__dahir26/" height="30" width="40" /></a>
+<p align="center">A passionate Junior Data Analyst</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amin-dahir&color=blueviolet" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🔹 About Me  
+- 📊 I’m focused on Data Analysis, dashboards & automation  
+- 🧠 I enjoy working with data tools like Excel, Power BI, SQL & Python  
+- 🌱 Currently improving my analytical workflow and portfolio  
+
+---
+
+### 📫 Connect with Me  
+<p align="left">
+  <a href="mailto:#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
+</p>
+
+---
+
+### 📊 Most Used Languages  
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-dahir&layout=compact&theme=tokyonight&card_width=400" />
+</div>
+
+---
+
+### 📈 Amin Dahir’s GitHub Stats  
+<div align="left">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=amin-dahir&show_icons=true&theme=tokyonight" />
+
+</div>
