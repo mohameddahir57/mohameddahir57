@@ -49,7 +49,6 @@ Some highlights:
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohameddahir57&theme=dark)](https://git.io/streak-stats)
 
 Want to connect or collaborate?  
 [Email](mailto:mohameddahirosman57@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/) | [WhatsApp](https://wa.me/252613040142) | [Instagram](https://www.instagram.com/moha__dahir26/)
