@@ -1,33 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=1800&color=228be6&center=true&vCenter=true&width=460&height=60&lines=Data+Analyst" alt="Data Analyst typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1800&pause=1000&color=228BE6&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Mohamed+%F0%9F%91%8B%F0%9F%8F%BD;Junior+Data+Analyst+%F0%9F%93%8A;Data+is+Everything.+Everything+is+Data." alt="Typing animation"/>
 </p>
 
-Hi, I'm Mohamed 👋🏽💻
+<div align="center">
 
-<div align="center" style="background: #f3f8fe; border-radius: 16px; padding: 28px 16px; margin: 28px 0;">
-  <div align="left" style="display: inline-block;">
-    <h2 style="margin-bottom: 8px; color: #232129; letter-spacing: 2px; font-weight: bold;">MOHAMED DAHIR OSMAN</h2>
-    <p style="color: #5b6b7a; font-size: 1.2em; margin: 0;">
-      data analyst & passion for insight-driven solutions
-    </p>
-  </div>
+# MOHAMED DAHIR OSMAN
+
+**Data is Everything. Everything is Data.**
+
 </div>
 
-I'm a data analyst who is passionate about making data accessible, empowering decision-making, and driving better outcomes. My focus is on turning raw information into clear, actionable insights for people and teams.  
-I love building dashboards and automation to help people see their data’s full potential. My go-to tools include **Excel**, **Power BI**, **SQL Server**, **MySQL**, and **Python**.
+---
 
-Some highlights:
-- 📊 Specializing in data visualization and business reporting.
-- 🤝 Eager to collaborate on impactful analytics projects.
-- 🧠 Always learning new data tools and techniques.
+A **Junior Data Analyst** with a background in **Computer Science & IT**, driven by curiosity and a commitment to making data work for people. I specialize in transforming complex datasets into clear, actionable insights that support smarter decision-making.
 
+With hands-on experience in data cleaning, visualization, and reporting, I focus on building dashboards and analytical solutions that help people and teams understand their data and act on it with confidence.
+
+My approach is simple: every dataset has a story — my job is to find it and tell it clearly.
+
+### Some highlights:
+- 📊 Focused on data visualization and business reporting.
+- 🛠️ Experienced in building dashboards and automating data workflows.
+- 🤝 Open to collaborating on analytics projects and internship opportunities.
+- 🧠 Continuously expanding my knowledge of data tools and techniques.
+
+---
 
 ## 🛠️ Skills & Tools
 
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48" alt="Excel"/>
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" alt="Excel"/>
       <br /><b>Excel</b>
     </td>
     <td align="center" width="120">
@@ -46,9 +50,43 @@ Some highlights:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
       <br /><b>Python</b>
     </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" alt="Tableau"/>
+      <br /><b>Tableau</b>
+    </td>
   </tr>
 </table>
 
+---
 
-Want to connect or collaborate?  
-[Email](mailto:mohameddahirosman57@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/) | [WhatsApp](https://wa.me/252613040142) | [Instagram](https://www.instagram.com/moha__dahir26/)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohameddahir57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started&hide=contribs" height="160" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddahir57&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohameddahirosman57@gmail.com">
+    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="64" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/">
+    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="64" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/252613040142">
+    <img src="https://img.icons8.com/fluency/64/whatsapp.png" width="64" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/moha__dahir26/">
+    <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="64" alt="Instagram"/>
+  </a>
+</p>
