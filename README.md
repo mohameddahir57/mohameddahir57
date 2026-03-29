@@ -1,92 +1,85 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3c,100:228be6&height=200&section=header&text=Mohamed%20Dahir%20Osman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20is%20Everything.%20Everything%20is%20Data.&descSize=16&descAlignY=58&descColor=90caf9&animation=fadeIn" width="100%"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1800&pause=1000&color=228BE6&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Mohamed+%F0%9F%91%8B%F0%9F%8F%BD;Junior+Data+Analyst+%F0%9F%93%8A;Data+is+Everything.+Everything+is+Data." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=228BE6&center=true&vCenter=true&width=600&height=50&lines=+Hi+there%2C+I'm+Mohamed!;+Junior+Data+Analyst;+Computer+Science+%26+IT+Background;+Turning+Raw+Data+into+Real+Insights" alt="Typing animation"/>
 </p>
 
-<div align="center">
+##  About Me
 
-# MOHAMED DAHIR OSMAN
-
-**Data is Everything. Everything is Data.**
-
-</div>
-
----
+```yaml
+Name        : Mohamed Dahir Osman
+Role        : Junior Data Analyst
+Background  : Computer Science & IT
+Focus       : Data Visualization | Dashboards | Reporting
+Status      : Open to collaborate & internship opportunities
+Motto       : "Every dataset has a story my job is to find it and tell it clearly."
+```
 
 A **Junior Data Analyst** with a background in **Computer Science & IT**, driven by curiosity and a commitment to making data work for people. I specialize in transforming complex datasets into clear, actionable insights that support smarter decision-making.
 
 With hands-on experience in data cleaning, visualization, and reporting, I focus on building dashboards and analytical solutions that help people and teams understand their data and act on it with confidence.
 
-My approach is simple: every dataset has a story — my job is to find it and tell it clearly.
+###  Highlights
 
-### Some highlights:
-- 📊 Focused on data visualization and business reporting.
-- 🛠️ Experienced in building dashboards and automating data workflows.
-- 🤝 Open to collaborating on analytics projects and internship opportunities.
-- 🧠 Continuously expanding my knowledge of data tools and techniques.
+| | |
+|---|---|
+| 📊 | Focused on data visualization and business reporting |
+| 🛠️ | Experienced in building dashboards and automating data workflows |
+| 🤝 | Open to collaborating on analytics projects and internship opportunities |
+| 🧠 | Continuously expanding my knowledge of data tools and techniques |
 
----
-
-## 🛠️ Skills & Tools
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" alt="Excel"/>
-      <br /><b>Excel</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI"/>
-      <br /><b>Power BI</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/>
-      <br /><b>SQL Server</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
-      <br /><b>MySQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
-      <br /><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/tableau-software.png" width="48" alt="Tableau"/>
-      <br /><b>Tableau</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
+##  Skills & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohameddahir57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_started&hide=contribs" height="160" alt="GitHub Stats"/>
+  <a href="#"><img src="https://img.icons8.com/fluency/64/microsoft-excel-2019--v1.png" title="Excel"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="56" title="Power BI"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="56" title="SQL Server"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="56" title="MySQL"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="56" title="Python"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://img.icons8.com/color/56/tableau-software.png" title="Tableau"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddahir57&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
----
+##  GitHub Stats
 
-## 🤝 Connect With Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddahir57&theme=tokyonight&hide_border=true&background=0d1117&ring=228be6&fire=228be6&currStreakLabel=228be6" width="60%"/>
+</p>
+
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:mohameddahirosman57@gmail.com">
-    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="64" alt="Email"/>
+    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="52" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohamed-dahir-osman-55605b363/">
-    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="64" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="52" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/252613040142">
-    <img src="https://img.icons8.com/fluency/64/whatsapp.png" width="64" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/fluency/64/whatsapp.png" width="52" alt="WhatsApp"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/moha__dahir26/">
-    <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="64" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="52" alt="Instagram"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohameddahir57&color=228be6&style=flat-square&label=Profile+Views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:228be6,100:0d1117&height=100&section=footer" width="100%"/>
